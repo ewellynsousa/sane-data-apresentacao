@@ -21,9 +21,9 @@ SaneData é uma ferramenta desenvolvida para consolidar e apresentar uma varieda
 
 ## Equipe
 
-- [**Ewellyn Cristina Santos de Sousa**: Criadora do SaneData e Mestranda no Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) na UFOPA. ](http://lattes.cnpq.br/9282145308173973)
+- [**Ewellyn Cristina Santos de Sousa**](http://lattes.cnpq.br/9282145308173973): Criadora do SaneData e Mestranda no Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) na UFOPA. 
 
-- [**Leônidas Luiz Volcato Descovi Filho**: Orientador e docente no PPGSAQ, UFOPA. ](http://lattes.cnpq.br/2480279163317614).
+- [**Leônidas Luiz Volcato Descovi Filho**](http://lattes.cnpq.br/2480279163317614): Orientador e docente no PPGSAQ, UFOPA.
 
 ## Desenvolvimento
 
