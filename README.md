@@ -1,5 +1,5 @@
 
-![Logo](https://sane-data.vercel.app/assets/logo-sane-data-b.svg)
+![Logo](https://sane-data.vercel.app/assets/logo-sane-data-w.svg)
 
 
 **Confira o SaneData**: [🔗 Acesse aqui ](https://sane-data.vercel.app/)
