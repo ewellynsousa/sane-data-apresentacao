@@ -1,14 +1,13 @@
 
 ![Logo](https://sane-data.vercel.app/assets/logo-sane-data-w.svg)
 
-
-[🔗 Acesse aqui ](https://sane-data.vercel.app/)
-
 ---
 
 <p align="center">
 <img width="600" src="screen-home.png"/>
 </p>
+
+🔗 https://sane-data.vercel.app
 
 Desenvolvido como parte do Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) - UFOPA.
 
