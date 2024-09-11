@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-<img width="600" src="screen-home.png"/>
+<img width="750" src="screen-home.png"/>
 </p>
 
 Desenvolvido como parte do Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) - UFOPA.
@@ -32,7 +32,7 @@ SaneData é uma ferramenta desenvolvida para consolidar e apresentar uma varieda
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React, Vite, TailwindCSS
+- **Frontend**: ![Static Badge](https://img.shields.io/badge/react-f2f2f2?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/vite-f2f2f2?style=for-the-badge&logo=vite) ![Static Badge](https://img.shields.io/badge/tailwind-f2f2f2?style=for-the-badge&logo=tailwindC)
 - **Gráficos**: shadcdn charts
 - **Backend**: JSON
 - **Deploy**: Vercel
