@@ -32,12 +32,12 @@ SaneData é uma ferramenta desenvolvida para consolidar e apresentar uma varieda
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: ![Static Badge](https://img.shields.io/badge/react-f2f2f2?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/vite-f2f2f2?style=for-the-badge&logo=vite) ![Static Badge](https://img.shields.io/badge/tailwind-f2f2f2?style=for-the-badge&logo=tailwindC)
-- **Gráficos**: shadcdn charts
-- **Backend**: JSON
-- **Deploy**: Vercel
-- **Versionamento de Código**: GitHub
-- **Linguagens**: JavaScript
+- **Frontend**: 
+    ![Static Badge](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite) ![Static Badge](https://img.shields.io/badge/tailwind-000?style=for-the-badge&logo=tailwindCSS)
+- **Datasets**: ![Static Badge](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json)
+- **Deploy**: ![Static Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel)
+- **Versionamento de Código**: ![Static Badge](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+- **Linguagens**: ![Static Badge](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 
 
 ## Licença
