@@ -1,8 +1,13 @@
-![Logo](https://sane-data.vercel.app/assets/logo-sane-data-w.svg)
+
+![Logo](https://sane-data.vercel.app/assets/logo-sane-data-b.svg)
+
+
+**Confira o SaneData**: [🔗 Acesse aqui ](https://sane-data.vercel.app/)
+
 ---
 
 <p align="center">
-<img width="750" src="screen-home.png"/>
+<img width="600" src="screen-home.png"/>
 </p>
 
 Desenvolvido como parte do Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) - UFOPA.
@@ -17,12 +22,13 @@ SaneData é uma ferramenta desenvolvida para consolidar e apresentar uma varieda
 
 ## Equipe
 
-- **Ewellyn Cristina Santos de Sousa**: Criadora do SaneData e Mestranda no Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) na UFOPA. [Lattes](http://lattes.cnpq.br/).
-- **Leônidas Luiz Volcato Descovi Filho**: Orientador e docente no PPGSAQ, UFOPA. [Lattes](http://lattes.cnpq.br/).
+- [**Ewellyn Cristina Santos de Sousa**: Criadora do SaneData e Mestranda no Programa de Pós-graduação em Sociedade, Ambiente e Qualidade de Vida (PPGSAQ) na UFOPA. ](http://lattes.cnpq.br/9282145308173973)
+
+- [**Leônidas Luiz Volcato Descovi Filho**: Orientador e docente no PPGSAQ, UFOPA. ](http://lattes.cnpq.br/2480279163317614).
 
 ## Desenvolvimento
 
-- [@tharlysonribeiro](https://www.github.com/tharlysonribeiro)
+- [Tharlyson Ribeiro](https://www.linkedin.com/in/thjrribeiro/)
 
 ## Agradecimentos
 
