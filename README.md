@@ -1,4 +1,4 @@
-![Logo](https://sane-data.vercel.app/assets/logo-sane-data-b.svg)
+![Logo](https://sane-data.vercel.app/assets/logo-sane-data-w.svg)
 ---
 
 <p align="center">
