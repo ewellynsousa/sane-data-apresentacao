@@ -2,7 +2,7 @@
 ![Logo](https://sane-data.vercel.app/assets/logo-sane-data-w.svg)
 
 
-**Confira o SaneData**: [🔗 Acesse aqui ](https://sane-data.vercel.app/)
+[🔗 Acesse aqui ](https://sane-data.vercel.app/)
 
 ---
 
